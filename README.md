@@ -1,2 +1,3 @@
-# jsdrumkit
-Part of JavaScript30 projects
+# 30 Day Vanilla JS Coding Challenge
+
+JavaScript Drum Kit
